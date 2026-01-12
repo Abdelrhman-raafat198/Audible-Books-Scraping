@@ -17,3 +17,5 @@ Audible Web Scraper 🎧
 
 📂 Output
 ​The script generates an Excel file named Audible_data.xlsx (or your custom path) containing all the scraped records in a structured format.
+##Sample Results
+![Audible Data Results](results.png)
